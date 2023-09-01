@@ -3,6 +3,7 @@ package loops;
 public class ForLoop {
     public static void main(String[] args)
     {
+
         for(int b = 1; b <= 30; b+=2) //print the odd number
         {
             System.out.println(b);
@@ -12,5 +13,11 @@ public class ForLoop {
         {
             System.out.println(i);
         }
+
+
+
+
+
     }
+
 }
