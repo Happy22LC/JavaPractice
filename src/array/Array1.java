@@ -15,5 +15,6 @@ public class Array1 {
         {
             System.out.println(fruit[i]);
         }
+
     }
 }
