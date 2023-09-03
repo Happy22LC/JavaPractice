@@ -26,7 +26,20 @@ public class Array2 {
 
         }
         System.out.println(fruits.size());// prints array length
-        System.out.println(fruits);// prints as an array\
+        System.out.println(fruits);// prints as an array
         System.out.println(fruits.contains("tomato"));// evaluate the element in boolean
+
+        for(String w : fruits)
+        {
+            System.out.println(w);// Just print all array element as normal
+
+        }
+        // iterate throw all element and each element  by the length as like foreach loop
+        for(String z : fruits)
+        {
+            System.out.println(fruits);// only the changing the parameter
+
+        }
+
     }
 }
