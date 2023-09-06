@@ -1,12 +1,14 @@
 package creationOfObj;
 
-public class NewObj {
+public class Object1 {
     public static void main(String[] args) {
         //ClassName ref = new Constructor();
-        NewObj obj = new NewObj();
+        Object1 obj = new Object1();
         obj.method1();
 
     }
+    int i = 10;
+    int j = 20;
 
     void method1()
     {
