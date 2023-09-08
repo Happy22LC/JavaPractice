@@ -16,7 +16,7 @@ public class MethodAsVariable {
         }
         System.out.println(sum);
     }
-    
+
     //when method works as a variable that method should have to initialize with their Data type
     // and the method must return ;
     // we can do the operation when we call with object. example above online 7.
