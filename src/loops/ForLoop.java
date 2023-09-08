@@ -13,10 +13,10 @@ public class ForLoop {
         {
             System.out.println(i);
         }
-
-
-
-
+        for(int x = 1; x <=10; x++) // cubic formula
+        {
+            System.out.println(x*x*x);
+        }
 
     }
 
