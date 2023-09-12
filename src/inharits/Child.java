@@ -25,7 +25,8 @@ public class Child extends Parent{
         System.out.println("Child is " + age + " years old");
     }
     /*in Java when we want to inherit any super class property have to use "super" keyword
-    * and inside the same class have to use "this" keyword  */
+    * and inside the same class have to use "this" keyword
+    * this is one way process, supper class can not call the child class element */
     void print()
     {
         System.out.println("Grand father's hair is " + super.hairOfGrandFather);
