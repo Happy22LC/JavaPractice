@@ -1,5 +1,9 @@
 package inharits;
 //Simple example of inheritance :
+/*
+* Overloading allows different methods to have the same name,but different signatures where
+* the signature can differ by the number of input parameters or type of input parameter,
+* sequence of parameters or combination of those*/
 public class Child extends Parent{
     public static void main(String[] args) {
         // we can call any Parents class method by using normal object creation.
