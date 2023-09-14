@@ -30,7 +30,7 @@ public class TryCatch {
     /*
     we can do both way to throw the exception
     // with the main method / globally throw the exception
-    
+
     public static void main(String[] args) throws InterruptedException {
         System.out.println("first");
         Thread.sleep(10000);
