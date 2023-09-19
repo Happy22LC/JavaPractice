@@ -12,8 +12,8 @@ public class String1 {
         }
 
         System.out.println(a.length());//total length of the string
-        String[] b = a.split("l");
-        System.out.println("count of: " + (b.length - 1));
+        String[] b = a.split("o");
+        System.out.println("count of: " + (b.length -1));
         System.out.println(a.substring(2,6));
     }
 }

@@ -1,7 +1,7 @@
 package encapsul;
 
 /* if we want to use any private property of any class we can use by encapsulation. we have to generate
-* getter and setter method of that property inside of that class and we have to set the value of that property
+* getter and setter method of that property inside of that class, we have to set the value of that property
 * in called class*/
 
 public class Membership {
